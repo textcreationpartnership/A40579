@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of two famous and signal victories obtained by Their Majesties forces over the Irish rebels, the first over General Sarsfield, near the Shannon, raising the siege of Bir, taking all their cannon and killing an hundred and sixty on the spot, driving them over the Shannon, the second over four thousand raparees, the killing five hundred of them, and taking all their arms also the arrival of Sir Clovesly Shovel with Their Majesties fleet : with many other material occurrences : in a letter from Dublin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40579</idno>
+            <idno type="STC">Wing F2311C</idno>
+            <idno type="STC">ESTC R11320</idno>
+            <idno type="EEBO-CITATION">13791442</idno>
+            <idno type="OCLC">ocm 13791442</idno>
+            <idno type="VID">101847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of two famous and signal victories obtained by Their Majesties forces over the Irish rebels, the first over General Sarsfield, near the Shannon, raising the siege of Bir, taking all their cannon and killing an hundred and sixty on the spot, driving them over the Shannon, the second over four thousand raparees, the killing five hundred of them, and taking all their arms also the arrival of Sir Clovesly Shovel with Their Majesties fleet : with many other material occurrences : in a letter from Dublin.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Cooper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sarsfield, Patrick, --  Earl of Lucan, d. 1693.</term>
+               <term>Shovell, Clowdisley, --  Sir, 1650-1707.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101847:1" rendition="simple:additions"/>
+            <pb facs="tcp:101847:1"/>
+            <head>A Full and True ACCOUNT Of Two Famous and Signal VICTORIES Obtained by Their Majeſties Forces OVER THE IRISH REBELS.
+<list>
+                  <item>The <hi>Firſt</hi> over General <hi>Sarsfield,</hi> near the <hi>Shannon,</hi> Raiſing the Siege of <hi>Bir,</hi> taking all their Can<g ref="char:EOLhyphen"/>non, and Killing an Hundred and Sixty on the Spot, driving them over the <hi>Shannon.</hi>
+                  </item>
+                  <item>The <hi>Second</hi> over Four Thouſand Raparees; the Killing Five Hundred of them, and taking all their Arms.</item>
+               </list>
+            </head>
+            <head type="sub">Alſo the Arrival of Sir <hi>Cloveſly Shovel</hi> with Their Majeſties Fleet. With many other Material Occurrences.</head>
+            <head type="sub">
+               <hi>In a Letter from</hi> Dublin.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SINCE my laſt, of the Action of Major General <hi>Scravemore</hi> and <hi>Tetau,</hi> and that of <hi>Leviſon</hi>'s Dra<g ref="char:EOLhyphen"/>goons, we have receiv'd the fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owing Accounts from our Forces: That <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Scouts of M. General <hi>Scravemore,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad Two days agoe brought to him Two Raparee Priſoners they had taken, who were ſound to be Officers among <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, and very Intelligent Perſons, up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n their Examination they could not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e brought to Confeſs any thing about their Aſſociates, or where the chief Rende<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vous of any Numbers of them were, upon which one of them were immediately Executed, and Orders were given for the Execution of the other, upon which he conſeſſed where a great Body of them were: The General im<g ref="char:EOLhyphen"/>mediately ordered a ſtrong Detachment to be ſent with the Guide, who marched ſecretly by covered ways, till they came near to a Mountainous place, be<g ref="char:EOLhyphen"/>tween which, in a great Vale, were got
+<pb n="2" facs="tcp:101847:2"/> together between Three and Four Thou<g ref="char:EOLhyphen"/>ſand of them, with a great quantity of Cattle, that they had gotten from the Counties adjacent (they were Carouſing themſelves, ſome taking of Snees, others Smoaking and Drinking;) upon the approach of our Forces, the Raparee Rebels gave a great Shout or Cry, like that of the <hi>Turks,</hi> ſeeming to come on with a great deal of Reſolution; but on our Forces firſt Fire they immediately Fled, leaving their Prey of Cattle, and moſt of their Arms, among which were Fifty Silver Hilted Swords, ſuppoſed to belong to their Chief Officers: Our Forces purſued them with a great Slaughter, killing between Five and Six Hundred of them, and taking many Priſoners.</p>
+            <p>We likewiſe have an Account from <hi>Connaught</hi>-ſide, That the Body of the <hi>Iriſh,</hi> conſiſting of between Five and Six Thouſand, that have been moving for ſome time, about the <hi>Shannon,</hi> Com<g ref="char:EOLhyphen"/>manded by <hi>Sarsfield</hi> and others, hav<g ref="char:EOLhyphen"/>ing croſſed the <hi>Shannon</hi> and come on this ſide, they Marched with Five Can<g ref="char:EOLhyphen"/>non to a ſtrong Town and Caſtle called <hi>Bir,</hi> which belonged to one Sir <hi>Lawrence Parſons,</hi> it's Scituated within Two Miles of the <hi>Shannon,</hi> Fifty Two from <hi>Dublin,</hi> and as many from <hi>Cork,</hi> and being come within Two Hundred Yards of the Place, they ſent a Summons to the Governor to Surrender, who had in it a Garriſon of about Eighty Soldi<g ref="char:EOLhyphen"/>ers, beſides Townſmen in Arms; the Governor ſent back a Reſolute Anſwer, That he knew no King but King <hi>William,</hi> for whom he kept the Caſtle, and to whom he hoped to be able to give a good Account of his Truſt, by a Reſolute De<g ref="char:EOLhyphen"/>fence; on which the Enemy raiſed a Battery with their Cannon, from whence they Played pretty briskly on the Place; the Garriſon at the ſame time (and while the Battery was raiſing) Played as briskly from the Caſtle on the Enemy, and killed a great many of their Men; while this was doing, Lieutenant Gene<g ref="char:EOLhyphen"/>ral <hi>Douglas;</hi> and Sir <hi>John Lanier,</hi> who were going in Purſuit of <hi>Sarsfield</hi> and his Parties, hearing the Guns Play too<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Alarm, and by their Scouts or Ad<g ref="char:EOLhyphen"/>vanced Parties, had Advice brough<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, that the Enemy had laid Siege to <hi>Bir,</hi> on which they immediately March<g ref="char:EOLhyphen"/>ed thither with their whole Force, upon whoſe Approach the Enemy raiſed th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Siege, and retired over the <hi>Shannon</hi> a<g ref="char:EOLunhyphen"/>gain, leaving their Cannon and Baggage and about 160 of their Company Dea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the Place, which had been Killed b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Cannon from the Garriſon.</p>
+            <p>We have an Account from all hands That the <hi>Iriſh</hi> are fallen under miſerabl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neceſſities, and what is more to ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Comfort, things are like to grow muc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſe with the Rog<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s. The Train'd Bands or Militia of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſeveral Coun<g ref="char:EOLunhyphen"/>ties, Cities, and Towns in Their Ma<g ref="char:EOLunhyphen"/>jeſties Poſſeſſion, are Raiſing, and man<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Raiſed and Armed to be in a poſture <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſiſt in Defending the Country Peopl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Winter from the Inſolencies and Vi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lanies of the Raparees. Trade begins t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Flouriſh, and fall into its old Channe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> again: And the Effects at the <hi>Cuſtom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Houſe</hi> advances very much. The great<g ref="char:EOLhyphen"/>eſt Want we fear this Winter is Coal for Firing.</p>
+            <p>Sir <hi>Cloveſly Shovel,</hi> with his whol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fleet, came into the Bay of <hi>Waterfor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Two Days ſince, and we hear he is Sail<g ref="char:EOLunhyphen"/>ing again towards the Coaſt of <hi>Galway</hi> in ſearch of ſome <hi>French</hi> that we hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is Cruſing there-abouts; but we hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not one Word of the Grand Fleet.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Cooper.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
